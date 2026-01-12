@@ -1,24 +1,14 @@
-# System files
 .DS_Store
 Thumbs.db
 
-# IDEs
 .vscode/
 .idea/
 
 # Old versions / backups
 onepage.html
 players.json
-# (Note: we moved players.json to data/players.json, so the one in root might be a duplicate or old,
-# actually looking at the file list, there is a players.json in root size 744 bytes.
-# Wait, I created data/players.json. The root players.json might be left over if I wrote it there first or if it was there?
-# In step 13 I wrote to c:/Users/matej.strnad023/prg/data/players.json.
-# But list_dir showed `players.json` in root too. Ah, looking at Step 4 list_dir, `players.json` existed in root BEFORE I started.
-# So I should ignore the root one if I'm using data/players.json.
-# Actually, let's verify if I should clean that up.
-# For now, I'll ignore root players.json in gitignore.
 
-# Unrelated project files (based on file list)
 app.js
 sachovnice.html
 suda_licha.html
+
