@@ -6,7 +6,6 @@ Studentský projekt – Matěj Strnad
 
 Matěj Strnad
 
-📝 Stručný popis (3–5 vět)
 
 Projekt představuje moderní jednostránkovou prezentaci fotbalové akademie Kovošrot FC, zaměřené na rozvoj mladých hráčů. Web je vytvořen jako jednoduchý, lone-page projekt inspirovaný studentským stylem práce. Část obsahu, včetně seznamu hráčů a jejich detailů, je načítána dynamicky pomocí AJAXu z lokálního JSON souboru. Cílem je vytvořit responzivní, funkční a vizuálně moderní stránku s důrazem na práci s daty a jednoduchými webovými technologiemi. Web slouží jako školní ukázka schopnosti kombinovat HTML, CSS/Tailwind a JavaScript.
 
