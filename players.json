@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Dalibor Staněk",
+        "position": "Útočník",
+        "positionKey": "forward",
+        "age": 17,
+        "photo": "images/dalibor.jpg",
+        "description": "Rychlý útočník."
+    },
+    {
+        "id": 2,
+        "name": "Matěj Strnad",
+        "position": "Záloha",
+        "positionKey": "midfield",
+        "age": 18,
+        "photo": "images/matej.jpg",
+        "description": "Technický záložník."
+    },
+    {
+        "id": 3,
+        "name": "Gracjan Čemeryš",
+        "position": "Obrana",
+        "positionKey": "defense",
+        "age": 17,
+        "photo": "images/gracek.jpg",
+        "description": "Tvrdý obránce."
+    },
+    {
+        "id": 4,
+        "name": "Viktor Vlček",
+        "position": "Brankář",
+        "positionKey": "goal",
+        "age": 17,
+        "photo": "images/viktor.jpg",
+        "description": "Spolehlivý gólman."
+    },
+    {
+        "id": 5,
+        "name": "Matěj Lemonfa",
+        "position": "Útočník",
+        "positionKey": "forward",
+        "age": 16,
+        "photo": "images/lemonfa.jpg",
+        "description": "Silový střelec."
+    },
+    {
+        "id": 6,
+        "name": "Daniel Verner",
+        "position": "Záloha",
+        "positionKey": "midfield",
+        "age": 17,
+        "photo": "images/verner.jpg",
+        "description": "Mladý talent."
+    },
+    {
+        "id": 7,
+        "name": "Alexander Šoška",
+        "position": "Obrana",
+        "positionKey": "defense",
+        "age": 18,
+        "photo": "images/šoška.jpg",
+        "description": "Defenzivní jistota."
+    }
+]

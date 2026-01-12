@@ -1,0 +1,17 @@
+body {
+    font-family: system-ui, Segoe UI, Roboto, Arial;
+}
+
+.hero-bg {
+    background-image: linear-gradient(90deg, #f7f1e6 0%, #fffef9 100%);
+}
+
+.card-shadow {
+    box-shadow: 0 6px 18px rgba(0, 0, 0, .08);
+}
+
+@media(max-width: 640px) {
+    .grid-mobile {
+        grid-template-columns: 1fr!important;
+    }
+}
